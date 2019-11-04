@@ -3,3 +3,4 @@
 - Flutter社区中文资源：https://flutter.cn
 - Flutter中文网：https://flutterchina.club/
 - Dart编程语言：http://www.dartdoc.cn/
+- Flutter实战：https://book.flutterchina.club/
