@@ -7,3 +7,4 @@
 - Flutter自定义Widget：http://flutter.link/
 - https://guoshuyu.cn/home/wx/
 - https://github.com/CarGuo/gsy_github_app_flutter
+- Flutter项目：https://github.com/simplezhli/flutter_deer
