@@ -5,3 +5,5 @@
 - Dart编程语言：http://www.dartdoc.cn/
 - Flutter实战：https://book.flutterchina.club/
 - Flutter自定义Widget：http://flutter.link/
+- https://guoshuyu.cn/home/wx/
+- https://github.com/CarGuo/gsy_github_app_flutter
